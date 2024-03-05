@@ -8,7 +8,7 @@ Home
 
 @section('content')
 @parent
-div <div class="container">
+<div class="container">
 
 </div>
 @endsection
